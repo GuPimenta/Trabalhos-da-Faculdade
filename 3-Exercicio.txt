@@ -1,0 +1,23 @@
+a) Mostrar todos os itens de solicitação do produto 5. 
+b) Mostrar todos os itens de solicitação em que a quantidade solicitada é de até 3 unidades.
+c) Mostrar todos os itens de solicitação em que a quantidade solicitada é acima de 5 unidades.
+d) Mostrar todas as descrições de produto que não são medidas por 'Unidade'. 
+e) Mostrar código e descrição dos produtos em que a unidade de medida é nula.
+f) Mostrar a descrição dos departamentos 3, 4 e 7.
+g) Mostrar o número dos pedidos emitidos em janeiro de 1997.
+h) Mostrar todas as informações dos fornecedores em que a razão social contém a string 'err'.
+i) Mostrar código e descrição dos produtos que foram pedidos pelo menos uma vez.
+j) Mostrar código e descrição dos departamentos que fizeram pelo menos uma solicitação de compra.
+k) Mostrar todas as informações dos produtos que são medidos por 'Lata' ou que custam até R$ 1,00.
+l) Mostrar todas as informações dos produtos que são medidos por 'Unidade' e custam mais de R$ 50,00.
+m) Mostrar todas as informações dos produtos que são medidos por 'Unidade' e custam mais de R$ 50,00 ou que são medidas por 'Metro'.
+n) Mostrar o código dos produtos solicitados, além da quantidade média e total solicitada.
+o) Mostrar para cada produto pedido as seguintes informações:    
+	1) Descrição.    
+	2) Quantidade de pedidos.    
+	3) Quantidade pedida do produto.    
+	4) Valor total pedido.    
+	5) Menor preço unitário.    
+	6) Maior preço unitário.
+	7) Preço médio unitário praticado.
+q) Mostrar a quantidade de produtos solicitada e a média de produtos por solicitação, aberto por descrição do departamento, mês (e ano) de emissão da solicitação e código do produto.
